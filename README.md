@@ -1,5 +1,6 @@
 # Project-Proposal
 Gretchen Riggs
+
 February 3, 2017
 
 ### Nature or Not? - Detection of Man-Made Structure from Satellite Imagery
