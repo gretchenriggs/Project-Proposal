@@ -2,7 +2,7 @@
 Gretchen Riggs
 February 3, 2017
 
-Nature or Not? - Detection of Man-Made Structure from Satellite Imagery
+### Nature or Not? - Detection of Man-Made Structure from Satellite Imagery
 
 After reading about the U.S. discovery of the installation of nuclear-armed Soviet missiles in Cuba via aerial photographs back in 1962 and also the use of aerial images to discern damage done by bombs, as well as designating targets, during World War II, I became interested in the use of aerial or satellite images.  Also, it required a lot of man-power to review all of the aerial photographs taken.  Today, we have even more images, taken from satellites.  It takes a lot of eyes to view of all of this data.  An automated method to do so would help speed up the process and probably make the process less likely to suffer from error introduced from the weary human viewers.
 
